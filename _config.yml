@@ -17,12 +17,12 @@ conf:
 
 # Site info
 site:
-  url: "http://frontinrecife.com"
+  url: "http://frontinrecife.com.br"
   favicon: "http://braziljs.org/favicon.ico"
   googleanalytics: "UA-44683857-1"
   images:
     cover: "img/dennis.jpg"
-    facebook: "http://braziljs.org/img/fb-share.jpg"
+    facebook: "http://frontinrecife.com.br/img/fb.png"
 
 # Active sections on the website
 sections:
