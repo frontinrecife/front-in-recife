@@ -1,0 +1,75 @@
+# Jekyll
+server: true
+auto: true
+markdown: rdiscount
+pygments: true
+permalink: /:title.html
+
+# Conference info
+conf:
+  name: "FRONT in RECIFE"
+  description: "Let us together make a great day, dedicated to improving our knowledge related to front-end development, together with great speakers from local and national. This year we will talk about SEO, Responsive, cross-platform mobile web, HTML, JavaScript, CSS. See you there!"
+  date: "December 14"
+  price: "R$ 80"
+  address: "Rua Itatiaia, 318 — Apipucos — Recife, Pernambuco"
+  venue: "Faculdade Marista"
+  city: "Apipucos, Recife"
+
+# Site info
+site:
+  url: "http://frontinrecife.com"
+  favicon: "http://braziljs.org/favicon.ico"
+  googleanalytics: "UA-44683857-1"
+  images:
+    cover: "img/dennis.jpg"
+    facebook: "http://braziljs.org/img/fb-share.jpg"
+
+# Active sections on the website
+sections:
+  about: false
+  speakers: false
+  city: true
+  location: true
+  schedule: false
+  sponsors: false
+  partners: false
+  contact: false
+
+# The entire schedule
+schedule:
+  -
+    name: "Check-in / Breakfast"
+    time: "9h00"
+  -
+    name: "Fulano"
+    photo: "https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash4/484592_10151131713949548_1131776943_n.jpg"
+    bio: "One of the creators of BrazilJS Foundation, working at Globo.com, where he has been involved with projects for Globoesporte.com, Futpédia, Real Time, Athletes and Euatleta. It is very involved with the community JS, also, the founder and moderator of riojs and pernambucojs, besides organizing the Front in BH. Degree in computer engineering from UPE, electronics technician by IFPE and Master Degree Candidate in Informatics at PUC-Rio."
+    company: "Globo.com"
+    twitter: "davidsonfellipe"
+    presentation:
+      title: "Digging into a Linux Kernel"
+      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+      time: "10h00"
+
+
+# List of Sponsors
+sponsors:
+  -
+    name: "Eventick"
+    logo: "http://f.cl.ly/items/1U3p0Z0e2w0I1i3z1X22/Image%202012.09.25%203:00:58%20PM.png"
+    url: "http://eventick.com.br"
+
+# List of Partners
+partners:
+  -
+    name: "BrazilJS"
+    logo: "http://f.cl.ly/items/2N3i2W0X2f3c2g2Z2N0f/Untitled-1.png"
+    url: "http://braziljs.org"
+  -
+    name: "Eventick"
+    logo: "img/sponsor/eventick.png"
+    url: "http://www.eventick.com.br/"
+  -
+    name: "Faculdade Marista"
+    logo: "img/sponsor/marista.png"
+    url: "http://braziljs.org"

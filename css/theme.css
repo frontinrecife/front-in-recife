@@ -1,0 +1,230 @@
+/* =============================================================================
+   FONTS
+   ========================================================================== */
+/* =============================================================================
+   MAIN LAYOUT
+   ========================================================================== */
+* {
+  -webkit-font-smoothing: antialiased;
+}
+
+html {
+  font:normal normal 10px/1.2em 'Georgia', arial, sans-serif;
+  color:#777;
+}
+
+/* =============================================================================
+   BASIC STYLES
+   ========================================================================== */
+h1, h2, h3, h4, h5, h6 {color:#2b2b2b;}
+
+/* =============================================================================
+   NAVIGATION
+   ========================================================================== */
+nav {background: #2b2b2b;}
+.nav-link {color:#e7e7e7;}
+.nav-link:active,
+.nav-link:hover,
+.nav-link:focus,
+.nav-link.current {color:#fff;}
+
+/* =============================================================================
+   HEADER
+   ========================================================================== */
+.header {
+  background-color: #2b2b2b;
+  background-repeat: no-repeat;
+  background-position: 0 bottom;
+  background-size: 100% 100%;
+  height: 360px;
+  text-transform: uppercase;
+  font-weight: 900;
+  letter-spacing: 3px;
+}
+.fb-like {
+  display: block;
+  clear: both;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.logo-link, .tagline, .call-action-area .price {
+  color:#fff;
+  text-shadow: 1px 2px 1px rgba(0,0,0,1);
+}
+.tagline {
+  font-weight: italic;
+}
+.description {
+  color: #fff;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin: 20px auto 30px auto;
+  text-shadow: 1px 2px 1px rgba(0, 0, 0, .6);
+  text-transform: none;
+  width: 936px;
+}
+.call-action-area .price {color:#fddd52;}
+.call-action-area .call-action-link, .btn {
+  background-color: #fddd52;
+  background-image: -moz-linear-gradient(top, #fddd52 30%, #f0a303 150%);
+  background-image: -webkit-linear-gradient(top, #fddd52 30%, #f0a303 150%);
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#fddd52', endColorstr='#f0a303');
+  background-image: linear-gradient(top, #fddd52 30%, #f0a303 150%);
+  color:#2b2b2b;
+  text-shadow: 0 1px 0 rgba(255,255,255,.5);
+  box-shadow: 0 2px 3px 0 rgba(0,0,0,.4), inset 0 -2px 3px 0 #cc7f0a, inset 0 1px 0 0 #fff9b1;
+  border-radius: 40px;
+}
+
+/* =============================================================================
+   CONTENT
+   ========================================================================== */
+.content a {color:#f0a303;}
+.content a:hover, .content a:focus {
+  color:#fddd52;
+  text-decoration: underline;
+}
+
+/* =============================================================================
+   ABOUT
+   ========================================================================== */
+.about {
+  background:#fff;
+  height: 850px;
+}
+
+.about-p {
+  text-align: center;
+  color: #222;
+  width: 800px;
+  margin: auto;
+}
+/* =============================================================================
+   LOCATION
+   ========================================================================== */
+.location {
+  padding-top: 0 !important;
+  background-color: #333;
+  margin-bottom: 150px;
+}
+.location iframe {
+  margin: 0 auto 40px auto;
+  display: block;
+}
+.location-area {
+  border: 1px solid #ccc;
+  height: 360px;
+}
+.location-video,
+.location-map {
+  width: 960px;
+  margin: auto;
+  overflow: hidden;
+}
+.location-about {
+  padding-right: 20px;
+  margin-right: 20px;
+  height: 360px;
+  width: 439px;
+  border-right: 1px solid #dedede;
+  float: left;
+}
+.location-reference {
+  display: block;
+  text-align: right;
+}
+/* =============================================================================
+   SPEAKER
+   ========================================================================== */
+.speakers-list {
+  width: 960px;
+  margin: 0 auto;
+}
+/*
+.speaker-photo .photo {
+  border-radius: 50%;
+  box-shadow: 0 0 0 8px rgba(0,0,0,.07);
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -ms-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}*/
+
+.speakers-item:hover .speaker-photo .photo {
+  /*box-shadow: 0 0 0 8px rgba(0,0,0,.3);*/
+}
+.speech-time {
+  color:#fff;
+  background:#2b2b2b;
+  font-family: 'Coustard', Arial, sans-serif, sans;
+}
+.speech-title {
+  display: none;
+}
+.speakers-bio {
+  font-style: italic;
+}
+
+/* =============================================================================
+   SCHEDULE
+   ========================================================================== */
+.schedule-tbl {
+  background:#fff;
+  border:1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.15);
+}
+.schedule-tbl table {background:#fff;}
+.schedule-tbl td, .schedule-tbl th {border-bottom:1px solid #e7e7e7;}
+.schedule-tbl tbody tr:nth-child(2n+1) {background:#f6f6f6;}
+.schedule-tbl th {color:#2b2b2b;}
+.schedule-tbl .speaker-photo .photo {box-shadow: 0 0 0 1px rgba(0,0,0,.3);}
+.speakers-company {color:#999;}
+.schedule-slot {color:#2b2b2b;}
+.schedule-tbl tbody tr:hover {background:#fffde1;}
+.schedule-coffee, .schedule-closing, .schedule-lunch, .schedule-other {color:#214f87;}
+
+/* =============================================================================
+   SPONSORS
+   ========================================================================== */
+.sponsor-link, .partner-link {
+  background:#fff;
+}
+
+/* =============================================================================
+   CONTATO
+   ========================================================================== */
+.form-contato input[type=text], .form-contato input[type=email], .form-contato textarea{
+  color:#777;
+  border:1px solid #e7e7e7;
+  background:#fff;
+  border-radius:4px;
+}
+.form-contato input[type=text]:focus, .form-contato input[type=email]:focus, .form-contato textarea:focus {border-color:#aaa;outline:0;}
+
+
+/* =============================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (max-width : 1024px) {
+  .header {
+    background-size: auto 100%;
+  }
+}
+@media only screen and (max-width : 480px) {
+  /* speakers */
+  .speaker-photo .photo {box-shadow: 0 0 0 3px rgba(0,0,0,.07);}
+  .speech-title {font-weight: bolder;}
+  .speech-time {
+    color:#2b2b2b;
+    background: transparent;
+    font-weight: bolder;
+  }
+}
