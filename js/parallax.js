@@ -4,7 +4,6 @@ $(function() {
 
   if (screen.width > 640) {
 
-    // debugger;
     window.addEventListener('scroll', function(e) {
 
       var position = document.body.scrollTop;
