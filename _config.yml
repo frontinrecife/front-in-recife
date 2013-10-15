@@ -9,11 +9,11 @@ permalink: /:title.html
 conf:
   name: "FRONT in RECIFE"
   description: "Let us together make a great day, dedicated to improving our knowledge related to front-end development, together with great speakers from local and national. This year we will talk about SEO, Responsive, cross-platform mobile web, HTML, JavaScript, CSS. See you there!"
-  date: "December 14"
+  date: "14 de Dezembro"
   price: "R$ 80"
   address: "Rua Itatiaia, 318 — Apipucos — Recife, Pernambuco"
   venue: "Faculdade Marista"
-  city: "Apipucos, Recife"
+  city: "Recife"
 
 # Site info
 site:
@@ -73,6 +73,10 @@ partners:
     name: "Faculdade Marista"
     logo: "img/sponsor/marista.png"
     url: "http://faculdademarista.com.br/"
+  -
+    name: "MGR Tech"
+    logo: "img/sponsor/mgrtech.png"
+    url: "http://mgrtech.com.br/"
   -
     name: "Front in BH"
     logo: "img/sponsor/frontinbh.png"
