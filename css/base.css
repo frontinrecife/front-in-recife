@@ -41,7 +41,7 @@ p {
   font-size: 3.625em;
   line-height: 2em;
   text-transform: uppercase;
-  font-family: 'Coustard', Arial, sans-serif, sans;
+  font-family: 'Open Sans', Arial, sans-serif, sans;
   font-weight: 900;
   letter-spacing: 3px;
   padding: 0px 0 20px 0;
@@ -80,7 +80,7 @@ p {
     border: 0px none rgb(255, 255, 255);
     color: rgb(255, 255, 255);
     display: block;
-    font: normal normal normal 12px 'Coustard', Arial, sans-serif;
+    font: normal normal normal 14px 'Open Sans', Arial, sans-serif;
     height: 70px;
     line-height: 70px;
     margin: 0px 0px 2px;
@@ -106,7 +106,7 @@ p {
   text-align:center;
 }
 .logo-name {
-  font-family: 'Coustard', Arial, sans-serif, sans;
+  font-family: 'Open Sans', Arial, sans-serif, sans;
   font-size: 7em;
   letter-spacing: -.04em;
   margin-bottom: 20px;
@@ -193,7 +193,7 @@ filter: gray;
   letter-spacing:-.03em;
 }
 .speakers-name{
-  font-family: 'Coustard', Arial, sans-serif, sans;
+  font-family: 'Open Sans', Arial, sans-serif, sans;
   font-size:1.6em;
 }
 .speakers-item p {font-size:1.4em;}
