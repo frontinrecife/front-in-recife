@@ -7,10 +7,10 @@ permalink: /:title.html
 
 # Conference info
 conf:
-  name: "FRONT in RECIFE"
+  name: "Front in Recife"
   description: "Let us together make a great day, dedicated to improving our knowledge related to front-end development, together with great speakers from local and national. This year we will talk about SEO, Responsive, cross-platform mobile web, HTML, JavaScript, CSS. See you there!"
   date: "14 de Dezembro"
-  price: "R$ 80"
+  price: "R$ 60"
   address: "Rua Itatiaia, 318 — Apipucos — Recife, Pernambuco"
   venue: "Faculdade Marista"
   city: "Recife"
@@ -26,8 +26,8 @@ site:
 
 # Active sections on the website
 sections:
-  about: false
-  speakers: false
+  about: true
+  speakers: true
   city: true
   location: true
   schedule: false
@@ -41,16 +41,45 @@ schedule:
     name: "Check-in / Breakfast"
     time: "9h00"
   -
-    name: "Fulano"
-    photo: "https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash4/484592_10151131713949548_1131776943_n.jpg"
-    bio: "One of the creators of BrazilJS Foundation, working at Globo.com, where he has been involved with projects for Globoesporte.com, Futpédia, Real Time, Athletes and Euatleta. It is very involved with the community JS, also, the founder and moderator of riojs and pernambucojs, besides organizing the Front in BH. Degree in computer engineering from UPE, electronics technician by IFPE and Master Degree Candidate in Informatics at PUC-Rio."
+    name: "Almir Filho"
+    photo: "http://graph.facebook.com/almirflorenciofilho/picture?type=large"
+    bio: "Desenvolvedor na Globo.com e co-fundador do Loop Infinito, onde compartilha seu conhecimento sobre front-end. Graduado e mestrando em Ciência da Computação, é extremamente interessado pelos padrões web e produtividade."
+    company: "Globo.com / Loopinfinito"
+    twitter: "almirfilho"
+    presentation:
+      title: "Digging into a Linux Kernel"
+      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+      time: "10h00"
+  -
+    name: "Davidson Fellipe"
+    photo: "http://graph.facebook.com/fellipe/picture?type=large"
+    bio: "Um dos criadores da BrazilJS Foundation, trabalha na equipe de esportes da Globo.com, onde já se envolveu com projetos para o Globoesporte.com, Futpédia, Tempo Real, Eu Atleta e Sportv. É bastante envolvido com a comunidade JS, sendo o fundador e moderador do riojs e pernambucojs, além de organizar o Front in BH. Graduado em engenharia da computação pela UPE, técnico em eletrônica pelo IFPE e Mestrando em Informática na PUC-Rio."
     company: "Globo.com"
     twitter: "davidsonfellipe"
     presentation:
       title: "Digging into a Linux Kernel"
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "10h00"
-
+      time: "11h00"
+  -
+    name: "Leo Balter"
+    photo: "http://graph.facebook.com/leobalter/picture?type=large"
+    bio: "É advogado por formação e desenvolvedor por diversão. Entusiasta de tecnologias front-end e pela Open Web, está conectado a diversas comunidades da área em todo o mundo. Também é representante Mozilla e lead front-end na Estante Virtual, divide o tempo com outras paixões, entre elas a música e longboard."
+    company: "Mozilla / Estante Virtual"
+    twitter: "leobalter"
+    presentation:
+      title: "Digging into a Linux Kernel"
+      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+      time: "13h00"
+  -
+    name: "Pedro Marins"
+    photo: "http://graph.facebook.com/pedrolmarins/picture?type=large"
+    bio: "Desenvolvedor com vasta experiência em diversos projetos de características variadas. Tem Formação acadêmica pela UniRio. Atualmente trabalha na catarse e ministra cursos na Caelum."
+    company: "catarse / caelum"
+    twitter: "pedromarins"
+    presentation:
+      title: "Digging into a Linux Kernel"
+      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+      time: "14h00"
 
 # List of Sponsors
 sponsors:
