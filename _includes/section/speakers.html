@@ -9,16 +9,29 @@
     {% for speaker in site.schedule %}
       {% if speaker.presentation %}
         <li class="speakers-item">
-          <span class="speaker-photo"><img class="photo" src="{{ speaker.photo }}" alt="{{ speaker.name }}" /></span>
+          <span class="speaker-photo">
+            <img class="photo" src="{{ speaker.photo }}" alt="{{ speaker.name }}">
+          </span>
 
+          {% if speaker.presentation.title != '' %}
           <h3 class="speech-title">
             {% if speaker.presentation.time %}
-              <span class="speech-time">{{ speaker.presentation.time }}</span>
+              <!-- <span class="speech-time">{{ speaker.presentation.time }}</span> -->
             {% endif %}
               <span> {{ speaker.presentation.title }}</span>
           </h3>
+          {% endif %}
 
-          <h3 class="speakers-name">{{ speaker.name }} <a href="http://www.twitter.com/{{ speaker.twitter }}" title="Twitter @{{ speaker.twitter }}">@{{ speaker.twitter }}</a></h3>
+          {% if speaker.presentation.description != '' %}
+          <p class="speakers-bio">{{ speaker.presentation.description }}</p>
+          {% endif %}
+
+          <h3 class="speakers-name">
+            {{ speaker.name }}
+            <a href="http://www.twitter.com/{{ speaker.twitter }}" title="Twitter @{{ speaker.twitter }}">(@{{ speaker.twitter }})</a> |
+            <span class="speakers-company">{{ speaker.company }}</span>
+          </h3>
+
           <p class="speakers-bio">{{ speaker.bio }}</p>
         </li>
       {% endif %}
