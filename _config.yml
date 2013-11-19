@@ -54,7 +54,7 @@ schedule:
     name: "Ciro Nunes"
     photo: "/img/speakers/ciro.jpg"
     bio: "Já foi responsável pelos maiores e-commerces da América Latina como Submarino, Shoptime e Americanas e foi o head Front-end Engineer e Agile Coach da Kanui (Rocket Internet). É membro/colaborador da comunidade AngularJS, framework JavaScript o qual escreve sobre em seu blog e organiza um meetup em São Paulo."
-    company: "Veduca (SP)"
+    company: "AngularJS São Paulo"
     twitter: "cironunesdev"
     presentation:
       title: "Pare de fazer sites, faça aplicações!"
