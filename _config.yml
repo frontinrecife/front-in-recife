@@ -117,8 +117,8 @@ schedule:
     company: "Catarse / Caelum (RJ)"
     twitter: "pedromarins"
     presentation:
-      title: ""
-      description: ""
+      title: "Decisões de software para a vida toda e como superar a síndrome do merda"
+      description: "A diferença entre correr uma maratona e um sprint se aplica ao desenvolvimento de software. Você quer que o seu software dure 3 meses ou 3 anos? Vou falar sobre as decisões tomadas pela equipe do Catarse para fazer com que o código front-end da nossa plataforma dure muito tempo. Além disso, você contribui com software livre ou sempre tem uma desculpa? Se quiser saber como começar a contribuir e superar a síndrome do merda essa palestra é para você!"
       time: "14h00"
   -
     name: "Rodrigo Nogueira"
