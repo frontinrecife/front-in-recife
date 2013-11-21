@@ -130,6 +130,16 @@ schedule:
       title: "O Mercado Front-End no Brasil e no Mundo"
       description: "Uma apanhado geral do profissional Front-End onde mostro médias salariais por região, diferenças na valorização do profissional nordestino, dicas para ser valorizado profissionalmente, como trabalhar home-office e mais dicas pra quem quer trabalhar como Front-End nos EUA."
       time: "14h00"
+  -
+    name: "Shankar Cabus"
+    photo: "http://graph.facebook.com/shankarcabus/picture?type=large"
+    bio: "Sobrinho desde 2001, sempre foi apaixonado pela Web e tudo que a cerca. Graduado em Sistema de Informação pela UNEB, trabalha oficialmente com front-end desde 2009 no JusBrasil, onde aprendeu a pensar focado no usuário. É também fundador do grupo Frontend Bahia e CSS lover <3"
+    company: "JusBrasil (BA)"
+    twitter: "shankarcabus"
+    presentation:
+      title: "O Poder Está No Frontend"
+      description: "Afinal, o que é o front-end? Qual profissional faz o front-end? Por que aprender front-end? Vamos desmistificar alguns assuntos polêmicos e mostrar o poder do front-end de uma forma bem humorada e criativa ;)"
+      time: "14h00"
 
 # List of Sponsors
 sponsors:
