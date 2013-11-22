@@ -167,6 +167,10 @@ partners:
     logo: "img/sponsor/mgrtech.png"
     url: "http://mgrtech.com.br/"
   -
+    name: "Globo.com"
+    logo: "img/sponsor/globo.png"
+    url: "http://opensource.globo.com/"
+  -
     name: "Front in BH"
     logo: "img/sponsor/frontinbh.png"
     url: "http://frontinbh.com.br/"
