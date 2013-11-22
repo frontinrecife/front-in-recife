@@ -171,6 +171,10 @@ partners:
     logo: "img/sponsor/globo.png"
     url: "http://opensource.globo.com/"
   -
+    name: "Mozilla"
+    logo: "img/sponsor/mozilla.png"
+    url: "http://mozilla.org/"
+  -
     name: "Front in BH"
     logo: "img/sponsor/frontinbh.png"
     url: "http://frontinbh.com.br/"
