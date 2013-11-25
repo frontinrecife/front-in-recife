@@ -175,6 +175,10 @@ partners:
     logo: "img/sponsor/mozilla.png"
     url: "http://mozilla.org/"
   -
+    name: "Novatec"
+    logo: "img/sponsor/novatec.png"
+    url: "http://novatec.com.br/"
+  -
     name: "Front in BH"
     logo: "img/sponsor/frontinbh.png"
     url: "http://frontinbh.com.br/"
