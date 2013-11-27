@@ -108,7 +108,7 @@ schedule:
     twitter: "omailson"
     presentation:
       title: "Desafios de se criar um jogo em HTML5"
-      description: "em breve mais detalhes"
+      description: "Uma visão dos problemas enfrentados no desenvolvimento de um jogo em HTML5. Qual o suporte que os browsers atuais dão, quais bibliotecas ajudam o desenvolvedor, como resolver alguns problemas de performance. O objetivo dessa palestra é mostrar que é possível fazer um bom jogo para a web sem a necessidade de plugins."
       time: "14h00"
   -
     name: "Pedro Marins"
