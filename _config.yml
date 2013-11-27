@@ -71,6 +71,16 @@ schedule:
       description: ""
       time: "11h00"
   -
+    name: "Demian Borba"
+    photo: "http://graph.facebook.com/fellipe/picture?type=large"
+    bio: "BlackBerry Developer Evangelist responsável pelo time de Developer Relations na América Latina, com foco no Brasil. Demian tem mais de 13 anos de experiência com tecnologia, interactive media, design, negócios e treinamentos. É um dos Adobe Community Professionals e também professor na Universidade de San Diego (UCSD), ensinando UI Design e programação alunos de Ciência da Computação e Design. Antes de entrar para a Research In Motion (BlackBerry), ele fundou e gerenciou a Action Creations, uma agência interativa baseada em San Diego com clientes como Oakley, 20th Century Fox, ASP World Tour of Surfing, Nike, Callaway Golf entre outros. Na arena de comunidades, foi o organizador de um dos maiores eventos de comunidades Adobe, o Adobe Camp Brasil. Recentemente, ele teve a oportunidade de participar e vencer um dos maiores hackathons do mundo, a AT&T® Mobile App Hackathon 2012, em Las Vegas EUA."
+    company: "Blackberry"
+    twitter: "demianborba‎"
+    presentation:
+      title: ""
+      description: ""
+      time: "11h00"
+  -
     name: "Guilherme Farias"
     photo: "/img/speakers/guilherme-farias.jpg"
     bio: "É desenvolvedor web com foco no client-side e mobile, entusiasta Javascript, Engenheiro FrontEnd na MGR Tecnologia, nas horas vagas está envolvido com projetos open-source e ligado no que rola de mais novo no mundo do JS."
