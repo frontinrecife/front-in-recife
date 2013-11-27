@@ -87,8 +87,8 @@ schedule:
     company: "Mozilla / Estante Virtual (RJ)"
     twitter: "leobalter"
     presentation:
-      title: ""
-      description: ""
+      title: "Aplicações Web Incríveis"
+      description: "O que é preciso pra fazer algo incrível na web e o que ela ser incrível? A web é cada vez mais das coisas e está cada vez mais próxima para todos construirem do mais divertido ao mais interessante para o trabalho no dia a dia. Junto do pacote veja como e onde publicar essas aplicações e o que podemos usar entre as APIs mais insanas que tem por aí."
       time: "13h00"
   -
     name: "Luiz Tiago"
