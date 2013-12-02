@@ -48,7 +48,7 @@ schedule:
     twitter: "almirfilho"
     presentation:
       title: "Esse cara é o Grunt"
-      description: "Venha conosco entender detalhes dessa melodia para sair da Jovem Guarda do desenvolvimento front-end<br>♫ O cara que observar os arquivos toda hora<br>Que regera em milisegundos se você alterar<br>Que está todo tempo em reload por você<br>Porque não parar de usar FTP?<br>Que após o save te chama<br>Pra dizer se o teste passou<br>Esse cara é o Grunt!"
+      description: "♫ O cara que observa seus arquivos toda hora<br />O cara que te avisa quando você quebra o build<br />O cara que faz o reload por você<br />O cara que após o save, te chama<br />Pra dizer se o teste passou ou quebrou<br />Esse cara é o Grunt!"
       time: "10h00"
   -
     name: "Ciro Nunes"
@@ -68,7 +68,7 @@ schedule:
     twitter: "davidsonfellipe"
     presentation:
       title: "Esse cara é o Grunt"
-      description: "Venha conosco entender detalhes dessa melodia para sair da Jovem Guarda do desenvolvimento front-end<br>♫ O cara que observar os arquivos toda hora<br>Que regera em milisegundos se você alterar<br>Que está todo tempo em reload por você<br>Porque não parar de usar FTP?<br>Que após o save te chama<br>Pra dizer se o teste passou<br>Esse cara é o Grunt!"
+      description: "♫ O cara que observa seus arquivos toda hora<br />O cara que te avisa quando você quebra o build<br />O cara que faz o reload por você<br />O cara que após o save, te chama<br />Pra dizer se o teste passou ou quebrou<br />Esse cara é o Grunt!"
       time: "11h00"
   -
     name: "Demian Borba"
