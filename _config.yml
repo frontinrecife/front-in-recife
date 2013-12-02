@@ -47,8 +47,8 @@ schedule:
     company: "Globo.com / Loopinfinito"
     twitter: "almirfilho"
     presentation:
-      title: ""
-      description: ""
+      title: "Esse cara é o Grunt"
+      description: "Venha conosco entender detalhes dessa melodia para sair da Jovem Guarda do desenvolvimento front-end<br>♫ O cara que observar os arquivos toda hora<br>Que regera em milisegundos se você alterar<br>Que está todo tempo em reload por você<br>Porque não parar de usar FTP?<br>Que após o save te chama<br>Pra dizer se o teste passou<br>Esse cara é o Grunt!"
       time: "10h00"
   -
     name: "Ciro Nunes"
@@ -63,12 +63,12 @@ schedule:
   -
     name: "Davidson Fellipe"
     photo: "http://graph.facebook.com/fellipe/picture?type=large"
-    bio: "Um dos criadores da BrazilJS Foundation, trabalha na equipe de esportes da Globo.com, onde já se envolveu com projetos para o Globoesporte.com, Futpédia, Tempo Real, Eu Atleta e Sportv. É bastante envolvido com a comunidade JS, sendo o fundador e moderador do riojs e pernambucojs, além de organizar o Front in BH. Graduado em engenharia da computação pela UPE, técnico em eletrônica pelo IFPE e Mestrando em Informática na PUC-Rio."
+    bio: "Um dos criadores da BrazilJS Foundation, trabalha na equipe de esportes da Globo.com, onde já se envolveu com projetos para o Globoesporte.com, Futpédia, Tempo Real, Eu Atleta e Sportv. É bastante envolvido com a comunidade JS, sendo o fundador e moderador do riojs e pernambucojs, além de organizar o Front in BH. Graduado em engenharia da computação pela UPE, técnico em eletrônica pelo IFPE e Mestrando em Ciência da Computação na PUC-Rio."
     company: "Globo.com (RJ)"
     twitter: "davidsonfellipe"
     presentation:
-      title: ""
-      description: ""
+      title: "Esse cara é o Grunt"
+      description: "Venha conosco entender detalhes dessa melodia para sair da Jovem Guarda do desenvolvimento front-end<br>♫ O cara que observar os arquivos toda hora<br>Que regera em milisegundos se você alterar<br>Que está todo tempo em reload por você<br>Porque não parar de usar FTP?<br>Que após o save te chama<br>Pra dizer se o teste passou<br>Esse cara é o Grunt!"
       time: "11h00"
   -
     name: "Demian Borba"
