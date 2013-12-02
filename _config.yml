@@ -81,6 +81,16 @@ schedule:
       description: ""
       time: "11h00"
   -
+    name: "Fábio Magnoni"
+    photo: "/img/speakers/fabio-magnoni.jpg"
+    bio: "Trabalha na Mozilla como Technical Evangelist, Firefox OS e outros projetos, acredita na Web Aberta e HTML5. Anteriormente foi fundador de start ups e desenvolvedor."
+    company: "Mozilla Brasil (SP)"
+    twitter: "fabiomagnoni"
+    presentation:
+      title: "Firefox OS WebApps com WebAPIs e Web components"
+      description: "Como construir WebApps utilizando WebAPIs abertas, web components e algumas ferramentas para desenvolvedores do Firefox"
+      time: "11h00"
+  -
     name: "Guilherme Farias"
     photo: "/img/speakers/guilherme-farias.jpg"
     bio: "É desenvolvedor web com foco no client-side e mobile, entusiasta Javascript, Engenheiro FrontEnd na MGR Tecnologia, nas horas vagas está envolvido com projetos open-source e ligado no que rola de mais novo no mundo do JS."
