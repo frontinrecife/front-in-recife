@@ -3,15 +3,13 @@
   <section class="partners" id="sponsors">
     <h2 class="section-title">Patrocínio</h2>
     <ul class="partners-list">
-
     {% for sponsors in site.sponsors %}
       <li class="partner-item">
         <a class="partner-logo partner-link sponsor-link" href="{{ sponsors.url }}">
-          <img src="{{ sponsors.logo }}" alt="{{ sponsors.name }}" class="photo" />
+          <img src="{{ sponsors.logo }}" alt="{{ sponsors.name }}" class="photo">
         </a>
       </li>
     {% endfor %}
-
     </ul>
   </section>
   <!-- / PARTNERS -->
