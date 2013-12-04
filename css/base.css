@@ -302,14 +302,15 @@ filter: gray;
   h2 { margin:20px 0px 0px 0px  !important; }
   .about, .partners, .sponsor, .speakers-list, .location-about, .location-video, .location-map { width:80% !important;padding:0px 10% !important;overflow:hidden; border: 0px !important;height:auto !important;}
   ul.wrapper {
-    width: 94%;
-    padding: 0 0;
-    margin:0px;
-    margin-left:6%;
+    box-sizing: border-box;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
-    box-sizing: border-box;
+    margin: 0;
+    margin-left: 0;
+    padding: 0 0;
+    text-align: center;
+    width: 94%;
   }
   .about {margin: 0;}
   .nav {
@@ -455,10 +456,16 @@ filter: gray;
     padding-top:0;
     font-size:16px;
     margin-bottom:.3em;
+    margin-left: 14px;
   }
   .speech-time {
     font-size:16px;
     padding: 0;
+  }
+
+  .speakers-name,
+  .speakers-bio {
+    font-size: 1.4em;
   }
 }
 
