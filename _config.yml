@@ -57,8 +57,8 @@ schedule:
     company: "AngularJS São Paulo"
     twitter: "cironunesdev"
     presentation:
-      title: "Pare de fazer sites, faça aplicações!"
-      description: "Não existe coisa pior para um desenvolvedor do que ter que dar manutenção em código legado. Aquele código que ninguém quer mexer, difícil de entender, acoplado e o pior: sem testes! Nosso código pode chegar rapidamente nesse estado quando desenvolvemos sites. Vamos falar sobre como tratar nossos projetos como aplicações web. Boas práticas de desenvolvimento Front-end como testes automatizados e guias de estilo, além ferramentas para deixar nossos projetos incrivelmente fáceis de manter, aumentando a produtividade."
+      title: "Single Page Apps FTW!"
+      description: "A variedade de dispositivos e formas de acesso as aplicações web atuais, torna a tarefa de desenvolver e mantê-las um desafio. Por isso, ter uma arquitetura desacoplada, modular e testável é essencial. Que tal começar separando o client-side do server-side? Nesta palestra, vamos falar sobre Single Page Apps, aplicações onde o MVC passa para o browser, que fica responsável pela experiência dos usuários (UX) e o servidor passa a ser responsável pela integridade dos dados, segurança da aplicação e servir uma simples e poderosa API REST."
       time: "11h00"
   -
     name: "Davidson Fellipe"
