@@ -97,8 +97,8 @@ schedule:
     company: "MGR Tecnologia (PE)"
     twitter: "guiky"
     presentation:
-      title: ""
-      description: ""
+      title: "HTML, CSS & JS: Olhando pra frente"
+      description: "HTML5 e CSS3 já não é mais futuro. Na talk será abordado um overview de novas tecnologias que já estão em desenvolvimento e tornarão realidade nos próximos anos."
       time: "13h00"
   -
     name: "Leo Balter"
@@ -117,8 +117,8 @@ schedule:
     company: "MGR Tecnologia (PE)"
     twitter: "luiztiago"
     presentation:
-      title: ""
-      description: ""
+      title: "HTML, CSS & JS: Olhando pra frente"
+      description: "HTML5 e CSS3 já não é mais futuro. Na talk será abordado um overview de novas tecnologias que já estão em desenvolvimento e tornarão realidade nos próximos anos."
       time: "13h00"
   -
     name: "Mailson Lira"
