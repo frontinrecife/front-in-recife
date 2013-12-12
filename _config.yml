@@ -131,16 +131,6 @@ schedule:
       description: "Uma visão dos problemas enfrentados no desenvolvimento de um jogo em HTML5. Qual o suporte que os browsers atuais dão, quais bibliotecas ajudam o desenvolvedor, como resolver alguns problemas de performance. O objetivo dessa palestra é mostrar que é possível fazer um bom jogo para a web sem a necessidade de plugins."
       time: "10h00"
   -
-    name: "Pedro Marins"
-    photo: "/img/speakers/pedro.jpg"
-    bio: "Desenvolvedor com vasta experiência em diversos projetos de características variadas. Tem Formação acadêmica pela UniRio. Atualmente trabalha na catarse e ministra cursos na Caelum."
-    company: "Catarse / Caelum (RJ)"
-    twitter: "pedromarins"
-    presentation:
-      title: "Decisões de front-end para a vida toda"
-      description: "A diferença entre correr uma maratona e um sprint se aplica ao desenvolvimento de software. Você quer que o seu software dure 3 meses ou 3 anos? Vou falar sobre as decisões tomadas pela equipe do Catarse para fazer com que o código front-end da nossa plataforma dure muito tempo."
-      time: "14h00"
-  -
     name: "Rodrigo Nogueira"
     photo: "/img/speakers/rodrigo.jpg"
     bio: "Aficionado por tecnologia, começou a trabalhar como Desenvolvedor Web em 2008 desenvolvendo sistemas e sites. Formado em Sistemas para Internet pela Faculdade Marista, também passou a dar aulas no 4º período com o consenso do coordenador do curso da Faculdade. Trabalhou como Front-End para uma das maiores agências do mundo, a Ogilvy e a maior startup do Brasil o Peixe Urbano. Atualmente esta ministrando um treinamento para front-ends na Fator Web e atuando como Front-End na Parafernália Interativa."
