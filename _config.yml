@@ -131,6 +131,16 @@ schedule:
       description: "Uma visão dos problemas enfrentados no desenvolvimento de um jogo em HTML5. Qual o suporte que os browsers atuais dão, quais bibliotecas ajudam o desenvolvedor, como resolver alguns problemas de performance. O objetivo dessa palestra é mostrar que é possível fazer um bom jogo para a web sem a necessidade de plugins."
       time: "10h00"
   -
+    name: "Ramon Victor"
+    photo: "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/c0.0.180.180/s160x160/1459159_625003707538019_994340192_a.jpg"
+    bio: "Um profissional multidisciplinar que trabalha com tecnologias web há mais de quatro anos. Se intitula Interaction Designer mas não consegue ficar longe da paixão por codificar html, css e javascript. Formado em Sistemas para Internet na Faculdade Marista e especialista em Design da Informação pela UFPE. Trabalha atualmente como Desenvolvedor Frontend & Interaction Designer na Joy Street."
+    company: "Joy Street (PE)"
+    twitter: "ramonvictor"
+    presentation:
+      title: "Designers que codificam: prós e contras"
+      description: "Designers devem ou não codificar? Esse sempre foi um tema polêmico e até hoje gera milhares de discussões pelo mundo. A proposta é apresentar quais os argumentos de quem é a favor e contra a ideia do Designer incluir codificação front-end em seus skills. O que os profissionais (Designers) acham? Como o mercado (managers, startups, grandes empresas) vê isso?"
+      time: "14h00"
+  -
     name: "Rodrigo Nogueira"
     photo: "/img/speakers/rodrigo.jpg"
     bio: "Aficionado por tecnologia, começou a trabalhar como Desenvolvedor Web em 2008 desenvolvendo sistemas e sites. Formado em Sistemas para Internet pela Faculdade Marista, também passou a dar aulas no 4º período com o consenso do coordenador do curso da Faculdade. Trabalhou como Front-End para uma das maiores agências do mundo, a Ogilvy e a maior startup do Brasil o Peixe Urbano. Atualmente esta ministrando um treinamento para front-ends na Fator Web e atuando como Front-End na Parafernália Interativa."
