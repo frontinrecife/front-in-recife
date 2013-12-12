@@ -197,6 +197,14 @@ sponsors:
     name: "Blackberry"
     logo: "img/sponsor/bb.png"
     url: "http://br.blackberry.com"
+  -
+    name: "Globo.com"
+    logo: "img/sponsor/globo.png"
+    url: "http://opensource.globo.com/"
+  -
+    name: "Mozilla"
+    logo: "img/sponsor/mozilla.png"
+    url: "http://mozilla.org/"
 
 # List of Partners
 partners:
@@ -216,14 +224,6 @@ partners:
     name: "MGR Tech"
     logo: "img/sponsor/mgrtech.png"
     url: "http://mgrtech.com.br/"
-  -
-    name: "Globo.com"
-    logo: "img/sponsor/globo.png"
-    url: "http://opensource.globo.com/"
-  -
-    name: "Mozilla"
-    logo: "img/sponsor/mozilla.png"
-    url: "http://mozilla.org/"
   -
     name: "Novatec"
     logo: "img/sponsor/novatec.png"
