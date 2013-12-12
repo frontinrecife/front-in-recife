@@ -49,7 +49,7 @@ schedule:
     presentation:
       title: "Esse cara é o Grunt"
       description: "♫ O cara que observa seus arquivos toda hora<br>O cara que te avisa quando você quebra o build<br>O cara que faz o reload por você<br>O cara que após o save, te chama<br>Pra dizer se o teste passou ou quebrou<br>Esse cara é o Grunt!"
-      time: "10h00"
+      time: "15h00"
   -
     name: "Ciro Nunes"
     photo: "/img/speakers/ciro.jpg"
@@ -59,7 +59,7 @@ schedule:
     presentation:
       title: "Single Page Apps FTW!"
       description: "A variedade de dispositivos e formas de acesso as aplicações web atuais, torna a tarefa de desenvolver e mantê-las um desafio. Por isso, ter uma arquitetura desacoplada, modular e testável é essencial. Que tal começar separando o client-side do server-side? Nesta palestra, vamos falar sobre Single Page Apps, aplicações onde o MVC passa para o browser, que fica responsável pela experiência dos usuários (UX) e o servidor passa a ser responsável pela integridade dos dados, segurança da aplicação e servir uma simples e poderosa API REST."
-      time: "11h00"
+      time: "10h40"
   -
     name: "Davidson Fellipe"
     photo: "http://graph.facebook.com/fellipe/picture?type=large"
@@ -69,7 +69,7 @@ schedule:
     presentation:
       title: "Esse cara é o Grunt"
       description: "♫ O cara que observa seus arquivos toda hora<br>O cara que te avisa quando você quebra o build<br>O cara que faz o reload por você<br>O cara que após o save, te chama<br>Pra dizer se o teste passou ou quebrou<br>Esse cara é o Grunt!"
-      time: "11h00"
+      time: "15h00"
   -
     name: "Demian Borba"
     photo: "/img/speakers/demian.jpg"
@@ -79,7 +79,7 @@ schedule:
     presentation:
       title: "Criando Mobile Apps inovadores com HTML5"
       description: "em breve"
-      time: "11h00"
+      time: "14h20"
   -
     name: "Fábio Magnoni"
     photo: "/img/speakers/fabio-magnoni.jpg"
@@ -89,7 +89,7 @@ schedule:
     presentation:
       title: "Firefox OS WebApps com WebAPIs e Web components"
       description: "Como construir WebApps utilizando WebAPIs abertas, web components e algumas ferramentas para desenvolvedores do Firefox"
-      time: "11h00"
+      time: "16h10"
   -
     name: "Guilherme Farias"
     photo: "/img/speakers/guilherme-farias.jpg"
@@ -99,7 +99,7 @@ schedule:
     presentation:
       title: "HTML, CSS & JS: Olhando pra frente"
       description: "HTML5 e CSS3 já não é mais futuro. Na talk será abordado um overview de novas tecnologias que já estão em desenvolvimento e tornarão realidade nos próximos anos."
-      time: "13h00"
+      time: "9h20"
   -
     name: "Leo Balter"
     photo: "http://graph.facebook.com/leobalter/picture?type=large"
@@ -109,7 +109,7 @@ schedule:
     presentation:
       title: "Aplicações Web Incríveis"
       description: "O que é preciso pra fazer algo incrível na web e o que ela ser incrível? A web é cada vez mais das coisas e está cada vez mais próxima para todos construirem do mais divertido ao mais interessante para o trabalho no dia a dia. Junto do pacote veja como e onde publicar essas aplicações e o que podemos usar entre as APIs mais insanas que tem por aí."
-      time: "13h00"
+      time: "16h50"
   -
     name: "Luiz Tiago"
     photo: "/img/speakers/luiz-tiago.jpg"
@@ -119,7 +119,7 @@ schedule:
     presentation:
       title: "HTML, CSS & JS: Olhando pra frente"
       description: "HTML5 e CSS3 já não é mais futuro. Na talk será abordado um overview de novas tecnologias que já estão em desenvolvimento e tornarão realidade nos próximos anos."
-      time: "13h00"
+      time: "9h20"
   -
     name: "Mailson Lira"
     photo: "/img/speakers/mailson.jpg"
@@ -129,7 +129,7 @@ schedule:
     presentation:
       title: "Desafios de se criar um jogo em HTML5"
       description: "Uma visão dos problemas enfrentados no desenvolvimento de um jogo em HTML5. Qual o suporte que os browsers atuais dão, quais bibliotecas ajudam o desenvolvedor, como resolver alguns problemas de performance. O objetivo dessa palestra é mostrar que é possível fazer um bom jogo para a web sem a necessidade de plugins."
-      time: "14h00"
+      time: "10h00"
   -
     name: "Pedro Marins"
     photo: "/img/speakers/pedro.jpg"
@@ -149,7 +149,7 @@ schedule:
     presentation:
       title: "O Mercado Front-End no Brasil e no Mundo"
       description: "Uma apanhado geral do profissional Front-End onde mostro médias salariais por região, diferenças na valorização do profissional nordestino, dicas para ser valorizado profissionalmente, como trabalhar home-office e mais dicas pra quem quer trabalhar como Front-End nos EUA."
-      time: "14h00"
+      time: "11h20"
   -
     name: "Shankar Cabus"
     photo: "http://graph.facebook.com/shankarcabus/picture?type=large"
@@ -159,7 +159,7 @@ schedule:
     presentation:
       title: "O Poder Está No Frontend"
       description: "Afinal, o que é o front-end? Qual profissional faz o front-end? Por que aprender front-end? Vamos desmistificar alguns assuntos polêmicos e mostrar o poder do front-end de uma forma bem humorada e criativa ;)"
-      time: "14h00"
+      time: "9h00"
 
 # List of Sponsors
 sponsors:
