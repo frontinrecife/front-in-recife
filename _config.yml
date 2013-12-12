@@ -41,15 +41,15 @@ schedule:
     name: "Check-in / Breakfast"
     time: "9h00"
   -
-    name: "Almir Filho (RJ)"
-    photo: "http://graph.facebook.com/almirflorenciofilho/picture?type=large"
-    bio: "Desenvolvedor na Globo.com e co-fundador do Loop Infinito, onde compartilha seu conhecimento sobre front-end. Graduado e mestrando em Ciência da Computação, é extremamente interessado pelos padrões web e produtividade."
-    company: "Globo.com / Loopinfinito"
-    twitter: "almirfilho"
+    name: "Shankar Cabus"
+    photo: "http://graph.facebook.com/shankarcabus/picture?type=large"
+    bio: "Sobrinho desde 2001, sempre foi apaixonado pela Web e tudo que a cerca. Graduado em Sistema de Informação pela UNEB, trabalha oficialmente com front-end desde 2009 no JusBrasil, onde aprendeu a pensar focado no usuário. É também fundador do grupo Frontend Bahia e CSS lover <3"
+    company: "JusBrasil (BA)"
+    twitter: "shankarcabus"
     presentation:
-      title: "Esse cara é o Grunt"
-      description: "♫ O cara que observa seus arquivos toda hora<br>O cara que te avisa quando você quebra o build<br>O cara que faz o reload por você<br>O cara que após o save, te chama<br>Pra dizer se o teste passou ou quebrou<br>Esse cara é o Grunt!"
-      time: "15h00"
+      title: "O Poder Está No Frontend"
+      description: "Afinal, o que é o front-end? Qual profissional faz o front-end? Por que aprender front-end? Vamos desmistificar alguns assuntos polêmicos e mostrar o poder do front-end de uma forma bem humorada e criativa ;)"
+      time: "9h00"
   -
     name: "Ciro Nunes"
     photo: "/img/speakers/ciro.jpg"
@@ -59,17 +59,67 @@ schedule:
     presentation:
       title: "Single Page Apps FTW!"
       description: "A variedade de dispositivos e formas de acesso as aplicações web atuais, torna a tarefa de desenvolver e mantê-las um desafio. Por isso, ter uma arquitetura desacoplada, modular e testável é essencial. Que tal começar separando o client-side do server-side? Nesta palestra, vamos falar sobre Single Page Apps, aplicações onde o MVC passa para o browser, que fica responsável pela experiência dos usuários (UX) e o servidor passa a ser responsável pela integridade dos dados, segurança da aplicação e servir uma simples e poderosa API REST."
+      time: "9h20"
+  -
+    name: "Mailson Lira"
+    photo: "/img/speakers/mailson.jpg"
+    bio: "Desenvolvedor de software do Instituto Nokia de Tecnologia (INdT). Participou do desenvolvimento da versão HTML5 do Incredible Circus. Contribui para o KDE. Formado em Ciência da Computação pela UFPE."
+    company: "Instituto Nokia de Tecnologia - INdT (PE)"
+    twitter: "omailson"
+    presentation:
+      title: "Desafios de se criar um jogo em HTML5"
+      description: "Uma visão dos problemas enfrentados no desenvolvimento de um jogo em HTML5. Qual o suporte que os browsers atuais dão, quais bibliotecas ajudam o desenvolvedor, como resolver alguns problemas de performance. O objetivo dessa palestra é mostrar que é possível fazer um bom jogo para a web sem a necessidade de plugins."
+      time: "10h00"
+  -
+    name: "Guilherme Farias"
+    photo: "/img/speakers/guilherme-farias.jpg"
+    bio: "É desenvolvedor web com foco no client-side e mobile, entusiasta Javascript, Engenheiro FrontEnd na MGR Tecnologia, nas horas vagas está envolvido com projetos open-source e ligado no que rola de mais novo no mundo do JS."
+    company: "MGR Tecnologia (PE)"
+    twitter: "guiky"
+    presentation:
+      title: "HTML, CSS & JS: Olhando pra frente"
+      description: "HTML5 e CSS3 já não é mais futuro. Na talk será abordado um overview de novas tecnologias que já estão em desenvolvimento e tornarão realidade nos próximos anos."
       time: "10h40"
   -
-    name: "Davidson Fellipe"
-    photo: "http://graph.facebook.com/fellipe/picture?type=large"
-    bio: "Um dos criadores da BrazilJS Foundation, trabalha na equipe de esportes da Globo.com, onde já se envolveu com projetos para o Globoesporte.com, Futpédia, Tempo Real, Eu Atleta e Sportv. É bastante envolvido com a comunidade JS, sendo o fundador e moderador do riojs e pernambucojs, além de organizar o Front in BH. Graduado em engenharia da computação pela UPE, técnico em eletrônica pelo IFPE e Mestrando em Ciência da Computação na PUC-Rio."
-    company: "Globo.com (RJ)"
-    twitter: "davidsonfellipe"
+    name: "Luiz Tiago"
+    photo: "/img/speakers/luiz-tiago.jpg"
+    bio: "Pós-graduado em Desenvolvimento de Aplicações Móveis no CESAR e Graduado em Sistemas para Internet na Faculdade Marista, atua na área de web desde 2001. Co-fundador do jQueryBrasil e Pernambuco.JS, atualmente é CTO da MGR Tecnologia."
+    company: "MGR Tecnologia (PE)"
+    twitter: "luiztiago"
     presentation:
-      title: "Esse cara é o Grunt"
-      description: "♫ O cara que observa seus arquivos toda hora<br>O cara que te avisa quando você quebra o build<br>O cara que faz o reload por você<br>O cara que após o save, te chama<br>Pra dizer se o teste passou ou quebrou<br>Esse cara é o Grunt!"
-      time: "15h00"
+      title: "HTML, CSS & JS: Olhando pra frente"
+      description: "HTML5 e CSS3 já não é mais futuro. Na talk será abordado um overview de novas tecnologias que já estão em desenvolvimento e tornarão realidade nos próximos anos."
+      time: "10h40"
+  -
+    name: "Rodrigo Nogueira"
+    photo: "/img/speakers/rodrigo.jpg"
+    bio: "Aficionado por tecnologia, começou a trabalhar como Desenvolvedor Web em 2008 desenvolvendo sistemas e sites. Formado em Sistemas para Internet pela Faculdade Marista, também passou a dar aulas no 4º período com o consenso do coordenador do curso da Faculdade. Trabalhou como Front-End para uma das maiores agências do mundo, a Ogilvy e a maior startup do Brasil o Peixe Urbano. Atualmente esta ministrando um treinamento para front-ends na Fator Web e atuando como Front-End na Parafernália Interativa."
+    company: "Parafernália Interativa (RJ)"
+    twitter: "fale_rodrigo"
+    presentation:
+      title: "O Mercado Front-End no Brasil e no Mundo"
+      description: "Uma apanhado geral do profissional Front-End onde mostro médias salariais por região, diferenças na valorização do profissional nordestino, dicas para ser valorizado profissionalmente, como trabalhar home-office e mais dicas pra quem quer trabalhar como Front-End nos EUA."
+      time: "11h20"
+  -
+    name: "Almoço"
+    photo: ""
+    bio: ""
+    company: ""
+    twitter: ""
+    presentation:
+      title: ""
+      description: ""
+      time: "11h40"
+  -
+    name: "Ramon Victor"
+    photo: "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/c0.0.180.180/s160x160/1459159_625003707538019_994340192_a.jpg"
+    bio: "Um profissional multidisciplinar que trabalha com tecnologias web há mais de quatro anos. Se intitula Interaction Designer mas não consegue ficar longe da paixão por codificar html, css e javascript. Formado em Sistemas para Internet na Faculdade Marista e especialista em Design da Informação pela UFPE. Trabalha atualmente como Desenvolvedor Frontend & Interaction Designer na Joy Street."
+    company: "Joy Street (PE)"
+    twitter: "ramonvictor"
+    presentation:
+      title: "Designers que codificam: prós e contras"
+      description: "Designers devem ou não codificar? Esse sempre foi um tema polêmico e até hoje gera milhares de discussões pelo mundo. A proposta é apresentar quais os argumentos de quem é a favor e contra a ideia do Designer incluir codificação front-end em seus skills. O que os profissionais (Designers) acham? Como o mercado (managers, startups, grandes empresas) vê isso?"
+      time: "14h00"
   -
     name: "Demian Borba"
     photo: "/img/speakers/demian.jpg"
@@ -89,17 +139,37 @@ schedule:
     presentation:
       title: "Firefox OS WebApps com WebAPIs e Web components"
       description: "Como construir WebApps utilizando WebAPIs abertas, web components e algumas ferramentas para desenvolvedores do Firefox"
+      time: "15h00"
+  -
+    name: "Coffee Break"
+    photo: ""
+    bio: ""
+    company: ""
+    twitter: ""
+    presentation:
+      title: ""
+      description: ""
+      time: "15h40"
+  -
+    name: "Almir Filho (RJ)"
+    photo: "http://graph.facebook.com/almirflorenciofilho/picture?type=large"
+    bio: "Desenvolvedor na Globo.com e co-fundador do Loop Infinito, onde compartilha seu conhecimento sobre front-end. Graduado e mestrando em Ciência da Computação, é extremamente interessado pelos padrões web e produtividade."
+    company: "Globo.com / Loopinfinito"
+    twitter: "almirfilho"
+    presentation:
+      title: "Esse cara é o Grunt"
+      description: "♫ O cara que observa seus arquivos toda hora<br>O cara que te avisa quando você quebra o build<br>O cara que faz o reload por você<br>O cara que após o save, te chama<br>Pra dizer se o teste passou ou quebrou<br>Esse cara é o Grunt!"
       time: "16h10"
   -
-    name: "Guilherme Farias"
-    photo: "/img/speakers/guilherme-farias.jpg"
-    bio: "É desenvolvedor web com foco no client-side e mobile, entusiasta Javascript, Engenheiro FrontEnd na MGR Tecnologia, nas horas vagas está envolvido com projetos open-source e ligado no que rola de mais novo no mundo do JS."
-    company: "MGR Tecnologia (PE)"
-    twitter: "guiky"
+    name: "Davidson Fellipe"
+    photo: "http://graph.facebook.com/fellipe/picture?type=large"
+    bio: "Um dos criadores da BrazilJS Foundation, trabalha na equipe de esportes da Globo.com, onde já se envolveu com projetos para o Globoesporte.com, Futpédia, Tempo Real, Eu Atleta e Sportv. É bastante envolvido com a comunidade JS, sendo o fundador e moderador do riojs e pernambucojs, além de organizar o Front in BH. Graduado em engenharia da computação pela UPE, técnico em eletrônica pelo IFPE e Mestrando em Ciência da Computação na PUC-Rio."
+    company: "Globo.com (RJ)"
+    twitter: "davidsonfellipe"
     presentation:
-      title: "HTML, CSS & JS: Olhando pra frente"
-      description: "HTML5 e CSS3 já não é mais futuro. Na talk será abordado um overview de novas tecnologias que já estão em desenvolvimento e tornarão realidade nos próximos anos."
-      time: "9h20"
+      title: "Esse cara é o Grunt"
+      description: "♫ O cara que observa seus arquivos toda hora<br>O cara que te avisa quando você quebra o build<br>O cara que faz o reload por você<br>O cara que após o save, te chama<br>Pra dizer se o teste passou ou quebrou<br>Esse cara é o Grunt!"
+      time: "16h10"
   -
     name: "Leo Balter"
     photo: "http://graph.facebook.com/leobalter/picture?type=large"
@@ -111,55 +181,15 @@ schedule:
       description: "O que é preciso pra fazer algo incrível na web e o que ela ser incrível? A web é cada vez mais das coisas e está cada vez mais próxima para todos construirem do mais divertido ao mais interessante para o trabalho no dia a dia. Junto do pacote veja como e onde publicar essas aplicações e o que podemos usar entre as APIs mais insanas que tem por aí."
       time: "16h50"
   -
-    name: "Luiz Tiago"
-    photo: "/img/speakers/luiz-tiago.jpg"
-    bio: "Pós-graduado em Desenvolvimento de Aplicações Móveis no CESAR e Graduado em Sistemas para Internet na Faculdade Marista, atua na área de web desde 2001. Co-fundador do jQueryBrasil e Pernambuco.JS, atualmente é CTO da MGR Tecnologia."
-    company: "MGR Tecnologia (PE)"
-    twitter: "luiztiago"
+    name: "Encerramento"
+    photo: ""
+    bio: ""
+    company: ""
+    twitter: ""
     presentation:
-      title: "HTML, CSS & JS: Olhando pra frente"
-      description: "HTML5 e CSS3 já não é mais futuro. Na talk será abordado um overview de novas tecnologias que já estão em desenvolvimento e tornarão realidade nos próximos anos."
-      time: "9h20"
-  -
-    name: "Mailson Lira"
-    photo: "/img/speakers/mailson.jpg"
-    bio: "Desenvolvedor de software do Instituto Nokia de Tecnologia (INdT). Participou do desenvolvimento da versão HTML5 do Incredible Circus. Contribui para o KDE. Formado em Ciência da Computação pela UFPE."
-    company: "Instituto Nokia de Tecnologia - INdT (PE)"
-    twitter: "omailson"
-    presentation:
-      title: "Desafios de se criar um jogo em HTML5"
-      description: "Uma visão dos problemas enfrentados no desenvolvimento de um jogo em HTML5. Qual o suporte que os browsers atuais dão, quais bibliotecas ajudam o desenvolvedor, como resolver alguns problemas de performance. O objetivo dessa palestra é mostrar que é possível fazer um bom jogo para a web sem a necessidade de plugins."
-      time: "10h00"
-  -
-    name: "Ramon Victor"
-    photo: "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/c0.0.180.180/s160x160/1459159_625003707538019_994340192_a.jpg"
-    bio: "Um profissional multidisciplinar que trabalha com tecnologias web há mais de quatro anos. Se intitula Interaction Designer mas não consegue ficar longe da paixão por codificar html, css e javascript. Formado em Sistemas para Internet na Faculdade Marista e especialista em Design da Informação pela UFPE. Trabalha atualmente como Desenvolvedor Frontend & Interaction Designer na Joy Street."
-    company: "Joy Street (PE)"
-    twitter: "ramonvictor"
-    presentation:
-      title: "Designers que codificam: prós e contras"
-      description: "Designers devem ou não codificar? Esse sempre foi um tema polêmico e até hoje gera milhares de discussões pelo mundo. A proposta é apresentar quais os argumentos de quem é a favor e contra a ideia do Designer incluir codificação front-end em seus skills. O que os profissionais (Designers) acham? Como o mercado (managers, startups, grandes empresas) vê isso?"
-      time: "14h00"
-  -
-    name: "Rodrigo Nogueira"
-    photo: "/img/speakers/rodrigo.jpg"
-    bio: "Aficionado por tecnologia, começou a trabalhar como Desenvolvedor Web em 2008 desenvolvendo sistemas e sites. Formado em Sistemas para Internet pela Faculdade Marista, também passou a dar aulas no 4º período com o consenso do coordenador do curso da Faculdade. Trabalhou como Front-End para uma das maiores agências do mundo, a Ogilvy e a maior startup do Brasil o Peixe Urbano. Atualmente esta ministrando um treinamento para front-ends na Fator Web e atuando como Front-End na Parafernália Interativa."
-    company: "Parafernália Interativa (RJ)"
-    twitter: "fale_rodrigo"
-    presentation:
-      title: "O Mercado Front-End no Brasil e no Mundo"
-      description: "Uma apanhado geral do profissional Front-End onde mostro médias salariais por região, diferenças na valorização do profissional nordestino, dicas para ser valorizado profissionalmente, como trabalhar home-office e mais dicas pra quem quer trabalhar como Front-End nos EUA."
-      time: "11h20"
-  -
-    name: "Shankar Cabus"
-    photo: "http://graph.facebook.com/shankarcabus/picture?type=large"
-    bio: "Sobrinho desde 2001, sempre foi apaixonado pela Web e tudo que a cerca. Graduado em Sistema de Informação pela UNEB, trabalha oficialmente com front-end desde 2009 no JusBrasil, onde aprendeu a pensar focado no usuário. É também fundador do grupo Frontend Bahia e CSS lover <3"
-    company: "JusBrasil (BA)"
-    twitter: "shankarcabus"
-    presentation:
-      title: "O Poder Está No Frontend"
-      description: "Afinal, o que é o front-end? Qual profissional faz o front-end? Por que aprender front-end? Vamos desmistificar alguns assuntos polêmicos e mostrar o poder do front-end de uma forma bem humorada e criativa ;)"
-      time: "9h00"
+      title: ""
+      description: ""
+      time: "17h30"
 
 # List of Sponsors
 sponsors:
