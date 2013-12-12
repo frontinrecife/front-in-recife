@@ -127,8 +127,8 @@ schedule:
     company: "Blackberry"
     twitter: "demianborba"
     presentation:
-      title: "Criando Mobile Apps inovadores com HTML5"
-      description: "em breve"
+      title: "Criando Interfaces Inovadoras"
+      description: "Vamos entender como criar apps e interfaces inovadoras, seguindo a metodologia de Design Thinking de Stanford, com cases reais da BlackBerry e oportunidades muito interessantes."
       time: "14h20"
   -
     name: "Fábio Magnoni"
