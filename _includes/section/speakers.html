@@ -2,20 +2,22 @@
   <!-- SPEAKERS -->
   <section class="speakers" id="speakers">
 
-    <h2 class="section-title">Palestrantes</h2>
+    <h2 class="section-title">Programação</h2>
 
     <ul class="speakers-list">
     {% for speaker in site.schedule %}
       {% if speaker.presentation %}
         <li class="speakers-item">
           <span class="speaker-photo">
+            {% if speaker.photo != '' %}
             <img class="photo" src="{{ speaker.photo }}" alt="{{ speaker.name }}">
+            {% endif %}
+            <span class="speech-time">{{ speaker.presentation.time }}</span>
           </span>
 
           {% if speaker.presentation.title != '' %}
           <h3 class="speech-title">
             {% if speaker.presentation.time %}
-              <!-- <span class="speech-time">{{ speaker.presentation.time }}</span> -->
             {% endif %}
               <span> {{ speaker.presentation.title }}</span>
           </h3>
@@ -27,8 +29,14 @@
 
           <h3 class="speakers-name">
             {{ speaker.name }}
-            <a href="http://www.twitter.com/{{ speaker.twitter }}" title="Twitter @{{ speaker.twitter }}">(@{{ speaker.twitter }})</a> |
-            <span class="speakers-company">{{ speaker.company }}</span>
+
+            {% if speaker.twitter != '' %}
+            <a href="http://www.twitter.com/{{ speaker.twitter }}" title="Twitter @{{ speaker.twitter }}">(@{{ speaker.twitter }})</a>
+            {% endif %}
+
+            {% if speaker.company != '' %}
+             | <span class="speakers-company">{{ speaker.company }}</span>
+            {% endif %}
           </h3>
 
           <p class="speakers-bio">{{ speaker.bio }}</p>
