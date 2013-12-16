@@ -240,3 +240,7 @@ partners:
     name: "Youcamp"
     logo: "img/sponsor/youcamp.png"
     url: "http://www.youcamp.com.br/"
+  -
+    name: "Frevo on Rails"
+    logo: "img/sponsor/frevo-on-rails.png"
+    url: "http://frevoonrails.com.br/"
