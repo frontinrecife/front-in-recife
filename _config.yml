@@ -8,7 +8,7 @@ permalink: /:title.html
 # Conference info
 conf:
   name: "Front in Recife"
-  description: "Let us together make a great day, dedicated to improving our knowledge related to front-end development, together with great speakers from local and national. This year we will talk about SEO, Responsive, cross-platform mobile web, HTML, JavaScript, CSS. See you there!"
+  description: "Vamos juntos fazer um grande dia, dedicado a melhorar o nosso conhecimento relacionado ao desenvolvimento front-end, junto a grandes palestrantes do cenário local e nacional. Neste evento, iremos abordar tópicos não só de JavaScript, mas também de CSS, HTML, SEO, Responsive, web, mobile. A primeira edição será na Faculdade Marista, Apipucos no dia 14 de dezembro de 2013. Nos vemos lá!"
   date: "14 de Dezembro"
   price: "R$ 60"
   address: "Rua Jorge Tasso Neto, 318, Apipucos - Recife, Pernambuco"
